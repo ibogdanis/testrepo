@@ -1,8 +1,8 @@
 # testrepo
 
-## Editing the file
+## Applied Data Science Capstone (5 weeks)
 
-Applied Data Science Capstone (5 weeks)
+Guide to final course
 
 Week1:
   Lab 1: Collecting the data (Final Assignment)
