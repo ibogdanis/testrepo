@@ -4,7 +4,7 @@
 
 Guide to final course
 
-Week1:
+# Week1:
 
   Lab 1: Collecting the data (Final Assignment)
   
@@ -13,7 +13,7 @@ Week1:
   Lab 3: Data Wrangling (Final Assignment v3)
   
 
-Week2:
+# Week2:
 
   Lab 1: EDA with SQL
   
@@ -22,22 +22,22 @@ Week2:
   Lab 3: Visual Analytics with Folium
   
   
-Week3:
+# Week3:
 
   Lab: Build a Dashboard (Dash code - dash_interactivity.py)
   
   
-Week4:
+# Week4:
 
   Lab: Machine Learning Prediction
   
   
-Week5:
+# Week5:
 
   Presentation - Winning Space Race with Data Science
   
   
-Extras:
+# Extras:
 
   csv files - all .csv files used
   
